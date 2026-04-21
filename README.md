@@ -48,7 +48,7 @@ A fully immersive psychological horror game experience with:
 | Audio | Web Audio API synthesis + HTML Audio |
 | State | React useState + localStorage |
 | Fonts | Cinzel Decorative, Cinzel, Share Tech Mono |
-| Deployment | Netlify |
+
 
 ## Running Locally
 
